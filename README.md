@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/cokKOsO"/>
+  <img src="https://i.imgur.com/cokKOsO.jpg"/>
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-serranoie99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serranoie99@gmail.com)](mailto:serranoie99@gmail.com ) [![Linkedin Badge](https://img.shields.io/badge/-serranoie-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serranoie/)](https://www.linkedin.com/in/serranoei/)
