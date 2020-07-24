@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/cokKOsO.jpg"/>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-serranoie99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serranoie99@gmail.com)](mailto:serranoie99@gmail.com ) [![Linkedin Badge](https://img.shields.io/badge/-serranoie-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serranoie/)](https://www.linkedin.com/in/serranoei/)
+[![Gmail Badge](https://img.shields.io/badge/-serranoie99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serranoie99@gmail.com)](mailto:serranoie99@gmail.com ) [![Linkedin Badge](https://img.shields.io/badge/-serranoie-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serranoie/)](https://www.linkedin.com/in/serranoie/)
 
 I'm a software engineer student and a very pasionated person in any kind of projects or problems that I see or make, I have interest in web development, GNU/Linux and Java/Kotlin.
 
