@@ -6,9 +6,7 @@
 
 I'm a software engineer student and a very pasionated person in any kind of projects or problems that I see or make, I have interest in web/mobile development, GNU/Linux and native apps.
 
--  Worked with HTML, CS, JS with frameworks like Bootstrap & Laravel and also with desktop applications using Java.
--  Currently learning Git, Java & JavaScript learning in schools like CubicCoding and Hackademy.
--  Working and learning full-time React-Native using Expo.
--  Available for any opportunity of job right now.
--  Mostly active in the Open Source, Web Development Community and Reddit like [/r/UnixPorn](http://reddit.com/r/Unixporn)
-
+-  Worked with HTML, CSS, JS with frameworks like Bootstrap 4, Laravel & also with desktop applications using Java.
+-  Currently learning Git, Java & JavaScript in schools like [CubicCoding](https://www.cubiccoding.mx/) & [Hackademy](https://www.hackademy.mx/).
+-  Working and learning full-time React-Native using Expo as a boilerplate.
+-  Available for any opportunity of job right now focused in terms of web development, design or mobile development.
