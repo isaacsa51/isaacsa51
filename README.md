@@ -1,12 +1,14 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=isaacsa51&hide_border=true&hide_rank=true&show_icons=true&title_color=378AFC&text_color=C9D1D9&bg_color=00000000">
+
+### Welcome! I'm Isaac :wave:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serranoie/)
+[![serranoie99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranoie99@gmail.com)
+
+👨‍💻 Mexican versatile developer with 21 years old.
+👨‍🎓 Studying, learning & working at [Hackademy](https://www.hackademy.mx/), [CubicCoding](https://www.cubiccoding.mx/) & [UPSIN](http://upsin.edu.mx/)
+🚧 **Currently working at:** [Hackademy](https://www.hackademy.mx/)
+
 <p align="center">
-  <img src="https://i.imgur.com/cokKOsO.jpg"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsa51&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 </p>
-
-[![Gmail Badge](https://img.shields.io/badge/-serranoie99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:serranoie99@gmail.com)](mailto:serranoie99@gmail.com ) [![Linkedin Badge](https://img.shields.io/badge/-serranoie-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serranoie/)](https://www.linkedin.com/in/serranoie/)
-
-I'm a software engineer student and a very pasionated person in any kind of projects or problems that I see or make, I have interest in web/mobile development, GNU/Linux and native apps.
-
--  Worked with HTML, CSS, JS with frameworks like Bootstrap 4, Laravel & also with desktop applications using Java.
--  Currently learning Git, Java & JavaScript in schools like [CubicCoding](https://www.cubiccoding.mx/) & [Hackademy](https://www.hackademy.mx/).
--  Working and learning full-time React-Native using Expo as a boilerplate.
--  Available for any opportunity of job right now focused in terms of web development, design or mobile development.
