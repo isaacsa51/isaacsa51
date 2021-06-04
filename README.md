@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mexican versatile developer with 21 years old.
 - 👨‍🎓 Studying, learning & working at [Hackademy](https://www.hackademy.mx/), [CubicCoding](https://www.cubiccoding.mx/) & [UPSIN](http://upsin.edu.mx/)
-- 🚧 **Currently working at:** [Hackademy](https://www.hackademy.mx/)
+- 🚧 **Currently working at:** [CubicCoding](https://www.cubiccoding.mx/)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsa51&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
