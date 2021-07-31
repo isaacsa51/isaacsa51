@@ -1,17 +1,32 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=isaacsa51&hide_border=true&hide_rank=true&show_icons=true&title_color=378AFC&text_color=C9D1D9&bg_color=00000000">
+<div style="text-align: center">
+<h1><code>Welcome</code></h1>
+<h4>
+    
+```kotlin
+​
+class Coder: Person(
+    val firstName: String = "Isaac",
+    val lastName: String = "Serrano",
+    var age: Int = 21,
+    val nationality: String = "Mexican",
+) {
+    
+    private fun languages(): Array<String> {
+        return arrayOf<String>("Kotlin", "Java", "JavaScript", "HTML", "CSS")
+    }
 
-### Welcome! I'm Isaac :wave:
+    private fun tools(): Array<String> {
+        return arrayOf<String>("Android Studio", "React", "React Native", "SASS", "Bootstrap", "Styled-Components", "Photoshop", "Illustrator")
+    }
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serranoie/)
-[![serranoie99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranoie99@gmail.com)
+    private fun education(): Array<String> {
+        return arrayOf<String>("Polytechnic University of Sinaloa", "CubicCoding", "Hackademy")
+    }
 
-- 👨‍💻 Mexican versatile developer with 21 years old.
-- 👨‍🎓 Studying, learning & working at [Hackademy](https://www.hackademy.mx/), [CubicCoding](https://www.cubiccoding.mx/) & [UPSIN](http://upsin.edu.mx/)
-- 🚧 **Currently working at:** [CubicCoding](https://www.cubiccoding.mx/)
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsa51&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+    private fun workingIn(): String {
+        return "Accenture & CubicCoding"
+    }
+}
+​
+```
+</h4>
