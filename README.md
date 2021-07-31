@@ -1,9 +1,10 @@
-<div style="text-align: center">
-<h1><code>Welcome</code></h1>
-<h4>
+<div style="text-align: center !important;">
+    <h1>Hi there!</h1>
+</div>
+
+<h3>
     
 ```kotlin
-​
 class Coder: Person(
     val firstName: String = "Isaac",
     val lastName: String = "Serrano",
@@ -27,6 +28,5 @@ class Coder: Person(
         return "Accenture & CubicCoding"
     }
 }
-​
 ```
-</h4>
+</h3>
