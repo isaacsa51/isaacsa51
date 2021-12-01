@@ -1,4 +1,4 @@
-<h3>
+<h4>
     
 ```kotlin
 class Coder: Person(
@@ -13,7 +13,7 @@ class Coder: Person(
     }
 
     private fun tools(): Array<String> {
-        return arrayOf<String>("Android", "React", "Spring Boot", "React Native", "SASS", "Bootstrap", "Styled-Components", "Photoshop", "Illustrator")
+        return arrayOf<String>("Android", "React", "Spring Boot", "React Native", "SASS", "Bootstrap", "Styled-Components")
     }
 
     private fun education(): Array<String> {
@@ -25,4 +25,4 @@ class Coder: Person(
     }
 }
 ```
-</h3>
+</h4>
