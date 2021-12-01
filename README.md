@@ -1,14 +1,10 @@
-<div style="text-align: center !important;">
-    <h1>Hi there!</h1>
-</div>
-
 <h3>
     
 ```kotlin
 class Coder: Person(
     val firstName: String = "Isaac",
     val lastName: String = "Serrano",
-    var age: Int = 21,
+    var age: Int = 22,
     val nationality: String = "Mexican",
 ) {
     
@@ -17,15 +13,15 @@ class Coder: Person(
     }
 
     private fun tools(): Array<String> {
-        return arrayOf<String>("Android Studio", "React", "React Native", "SASS", "Bootstrap", "Styled-Components", "Photoshop", "Illustrator")
+        return arrayOf<String>("Android", "React", "Spring Boot", "React Native", "SASS", "Bootstrap", "Styled-Components", "Photoshop", "Illustrator")
     }
 
     private fun education(): Array<String> {
-        return arrayOf<String>("Polytechnic University of Sinaloa", "CubicCoding", "Hackademy")
+        return arrayOf<String>("Polytechnic University of Sinaloa", "CubicCoding", "Wizeline Academy", "Hackademy")
     }
 
     private fun workingIn(): String {
-        return "Accenture & CubicCoding"
+        return "Ivy Mobility"
     }
 }
 ```
