@@ -8,20 +8,20 @@ class Coder: Person(
     val nationality: String = "Mexican",
 ) {
     
-    private fun languages(): Array<String> {
+    fun shortBio(): String {
+        val bio: String = "Hey, I just like to make some little projects to study for myself in this account. Android Dev with 2+ years of exp..."
+    }
+    
+    fun languages(): Array<String> {
         return arrayOf<String>("Kotlin", "Java", "JavaScript", "HTML", "CSS")
     }
 
-    private fun tools(): Array<String> {
+    fun tools(): Array<String> {
         return arrayOf<String>("Android", "React", "Spring Boot", "React Native", "SASS", "Bootstrap", "Styled-Components")
     }
 
-    private fun education(): Array<String> {
-        return arrayOf<String>("Polytechnic University of Sinaloa", "CubicCoding", "Wizeline Academy", "Hackademy")
-    }
-
-    private fun workingIn(): String {
-        return "Ivy Mobility"
+    fun workingIn(): String {
+        return "Globant"
     }
 }
 ```
