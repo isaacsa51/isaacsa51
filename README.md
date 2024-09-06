@@ -4,7 +4,7 @@
 class Coder: Person(
     val firstName: String = "Isaac",
     val lastName: String = "Serrano",
-    var age: Int = 22,
+    var age: Int = 25,
     val nationality: String = "Mexican",
 ) {
     
